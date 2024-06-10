@@ -7,3 +7,4 @@ platform=linux/amd64 redis:7.0.15-alpine3.20
 alpine
 python:alpine3.19
 cooder1 /wewe-rss-sqlite:latest
+cooder1 /wewe-rss-sqlite:latest
